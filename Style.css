@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
+
+body {
+    background: linear-gradient(135deg, #f0f4ff 0%, #e6ecff 100%);/* Gradiente de fundo */
+    display: flex;/* Define um contêiner fexível */
+    justify-content: center;/* Centraliza o conteúdo horizontalmente */
+    align-items: center;/* Centraliza o conteúdo verticalmente */
+    height: 100vh;/* Altura total da viewpoint */
+}
+
 h1 {
     font-family: "BBH Sans Bogle", sans-serif;
     font-weight: 400;
