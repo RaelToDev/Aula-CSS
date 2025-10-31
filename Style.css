@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+h1 {
+    font-family: "BBH Sans Bogle", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: blue;
+    text-align: center;
+}
+
+/* Estilo para o parágrafo */
+p{
+    font-size: 16px;/* Tamanho da fonte */
+    line-height: 1.5;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    display: block;/* Faz a imagem ocupar uma linha inteira */
+    margin: 20px auto;/* centraliza a imagem horizontalmente */
+    border-radius: 50%;/* Deixa a imagem circular */
+    width: 150px;/* Largura da imagem */
+    height: 150px;/* Altura da imagem */
+}
