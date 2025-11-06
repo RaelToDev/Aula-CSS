@@ -31,6 +31,11 @@ img {
     width: 150px;/* Largura da imagem */
     height: 150px;/* Altura da imagem */
 }
+img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease; 
+
+}
 .Legenda {
     font-size: 12px;
     font-style: italic;}
