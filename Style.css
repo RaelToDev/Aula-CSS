@@ -2,7 +2,7 @@
 
 
 body {
-    background: linear-gradient(135deg, #f0f4ff 0%, #e6ecff 100%);/* Gradiente de fundo */
+    background: linear-gradient(135deg, #8c9ac0 0%, #141415 100%);/* Gradiente de fundo */
     display: flex;/* Define um contêiner fexível */
     justify-content: center;/* Centraliza o conteúdo horizontalmente */
     align-items: center;/* Centraliza o conteúdo verticalmente */
@@ -13,7 +13,7 @@ h1 {
     font-family: "BBH Sans Bogle", sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: blue;
+    color: rgb(11, 11, 90);
     text-align: center;
 }
 
@@ -31,3 +31,17 @@ img {
     width: 150px;/* Largura da imagem */
     height: 150px;/* Altura da imagem */
 }
+.Legenda {
+    font-size: 12px;
+    font-style: italic;}
+
+#card {
+    background-color: #fefefe;
+    padding: 40px;
+    border-radius: 20px;
+    align-items: center;
+    width: 350px;
+    box-shadow: 0 4px 20px rgb(0,0,1);
+    }
+
+
