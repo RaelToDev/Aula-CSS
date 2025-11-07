@@ -31,6 +31,7 @@ img {
     width: 150px;/* Largura da imagem */
     height: 150px;/* Altura da imagem */
 }
+/* pseudo classe */
 img:hover {
     transform: scale(1.05);
     transition: transform 0.3s ease; 
